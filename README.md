@@ -1,4 +1,5 @@
 📌 Project Walkthrough: Step-by-Step Deployment
+
 ✅ Step 1: Launch and Configure EC2 Instances
 - Created a custom VPC with public subnets across two availability zones.
 - Launched two Amazon Linux 2023 EC2 instances.
